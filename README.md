@@ -3,10 +3,7 @@
 ### Usage:
 
 Ottieni un API gratuita dal sito DeepInfra, effettua il login e copia l'API key [[[Get Api Key]]](https://deepinfra.com/login)
-- clona lo script con 
-```bash
-curl 
-```
+- clona il repository o scarica il file helper.sh
 
 Copia ed incolla nel terminale questi comandi prima di eseguire helper.sh
 
